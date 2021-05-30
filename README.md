@@ -3,6 +3,8 @@
 # ScreenSharing
 The screen sharing tool.
 
+![preview](./reviews/review.gif)
+  
 </div>
 
 ## Giới thiệu
@@ -19,4 +21,5 @@ Khởi động client (phía được chia sẻ)
 ```
 python3 client
 # Nhập host và port của server
+# Nhấn q để dừng
 ```
